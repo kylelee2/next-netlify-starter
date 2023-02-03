@@ -13,8 +13,11 @@ export default function Home() {
       <main>
         <Header title="AI DEPLOY" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Outline for Webpage and Business Model <code>pages/index.js</code>
         </p>
+    
+        <p>1. header, with contact, ai, quiz, test, exam</p>
+        <p>2. google ads, membership based rev model</p>
       </main>
 
       <Footer />
